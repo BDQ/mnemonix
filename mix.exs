@@ -58,7 +58,7 @@ defmodule Mnemonix.Mixfile do
   ]
 
   defp package, do: [
-    description: "A unified interface to key-value stores.",
+    description: "A unified interface to key/value stores.",
     maintainers: [
       "Chris Keele <christhekeele+mnemonix@gmail.com>",
     ],
